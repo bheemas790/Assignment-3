@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/CV-Assignment:3-BLUE.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/DUE-23:59hrs,16/03/2021-RED.svg)](https://shields.io/)
-# Assignment-3
+# Assignment 3
 The goal of the assignment is to familiarize you with the use of Markov Random Fields for Computer Vision. Specifically, in the use-case of image segmentation. This assignment has been prepared by Rohan Chacko and Prajwal Maitin. Please raise doubts on the appropriate assignment thread on moodle.
 
 # Instructions
