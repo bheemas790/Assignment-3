@@ -4,11 +4,12 @@
 The goal of the assignment is to familiarize you with the use of Markov Random Fields for Computer Vision. Specifically, in the use-case of image segmentation. This assignment has been prepared by Rohan Chacko and Prajwal Maitin. Please raise doubts on the appropriate assignment thread on moodle.
 
 # Instructions
-- Follow the directory structure as shown below: 
+- Follow the directory structure as shown below:
   ```
   ├── src           
         ├── Assignment3.ipynb  // provided boilerplate code in notebook
   ├── images                   // your test images
+  ├── Assignment3.pdf 
   └── README.md
   ```
 - `src` will contain the Jupyter notebook(s) used for the assignment.
